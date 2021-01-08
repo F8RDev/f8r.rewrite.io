@@ -1,3 +1,6 @@
+---
+title: My First Page
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/F8RDev/f8r.rewrite.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
