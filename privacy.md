@@ -1,4 +1,4 @@
-**Rewrite** as standalone apps never use your info or transmit it to 3rd party, except for crash report.
+**Rewrite** as standalone apps will not use your information or transmit it to 3rd party, except for crash report.
 The apps may use some of your computer information (i.e computer spec) only for crash reporting.
 
 Some feature require user to sign to 3rd party (i.e OneDrive, Windows Store).
